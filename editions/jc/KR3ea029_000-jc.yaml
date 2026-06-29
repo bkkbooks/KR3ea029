@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR3ea029/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黄帝内經靈樞略六氣論篇迷惑論篇無音論篇
+  hash: sha256:58dde5455e815ab55de289405088978c77096e395f84fdabe486f3b1591795cd
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ea029_jc_000-d2.h1s1}
+  - {type: 'tls:div-start', offset: 7, content: '', id: KR3ea029_jc_000-d2d2, level: 2}
+  - {type: 'tls:div-end', offset: 7, content: '', id: KR3ea029_jc_000-d2d2}
+  - {type: 'tls:div-start', offset: 7, content: '', id: KR3ea029_jc_000-d2d3, level: 2}
+  - {type: 'tls:div-end', offset: 7, content: '', id: KR3ea029_jc_000-d2d3}
+  - {type: 'tls:head', offset: 7, content: '', id: KR3ea029_jc_000-d6.h2s1}
+  - {type: 'tls:head', offset: 11, content: '', id: KR3ea029_jc_000-d10.h2s1}
+  - {type: 'tls:head', offset: 15, content: '', id: KR3ea029_jc_000-d14.h2s1}
+metadata:
+  title: 黃帝内經靈樞略
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea029.xml
+hash: sha256:cc450c571a6c92ba23478e4bafd62902cb1f3ddf2d886613e7a25e0adb556c13

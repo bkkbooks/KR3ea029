@@ -1,0 +1,61 @@
+canonical_identifier: bkk:krp/KR3ea029/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ea029/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃帝内經靈樞略
+  identifiers:
+    krp: KR3ea029
+  tags:
+    kr-categories: KR3ea
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea029.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea029_000-jc.yaml, hash: 'sha256:cc450c571a6c92ba23478e4bafd62902cb1f3ddf2d886613e7a25e0adb556c13'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea029_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 7
+  label: 黄帝内經靈樞略
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea029_jc_000-d6.h2s1
+    span:
+    - body
+    - 7
+    - 11
+  label: 六氣論篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea029_jc_000-d10.h2s1
+    span:
+    - body
+    - 11
+    - 15
+  label: 迷惑論篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea029_jc_000-d14.h2s1
+    span:
+    - body
+    - 15
+    - 19
+  label: 無音論篇
+  type: section
+  level: 1
+hash: sha256:a9efecfcb09799dba89782ee2d05b297ee8580962fdca7d72c8d83d8e55894bc
