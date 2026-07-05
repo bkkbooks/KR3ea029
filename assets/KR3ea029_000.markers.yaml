@@ -1,9 +1,0 @@
-canonical_identifier: bkk:krp/KR3ea029/bkk/v1/markers/0
-seq: 0
-markers:
-  front: []
-  body:
-  - {type: substitution, offset: 0, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
-  - {type: substitution, offset: 2, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
-  back: []
-hash: sha256:ea00185418562d561c29bcbb8ac8ff5501ee4a4be091929b79e8e3d2691df6a6

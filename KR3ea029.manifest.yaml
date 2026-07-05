@@ -16,9 +16,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea029_000.yaml, hash: 'sha256:8296acd26a00672f4e86100e56e4989429ebeed0078a99762abaef7ce2d5603b'}
-  markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea029_000.markers.yaml, hash: 'sha256:ea00185418562d561c29bcbb8ac8ff5501ee4a4be091929b79e8e3d2691df6a6'}
+  - {seq: 0, filename: KR3ea029_000.yaml, hash: 'sha256:cc450c571a6c92ba23478e4bafd62902cb1f3ddf2d886613e7a25e0adb556c13'}
 table_of_contents:
 - ref:
     seq: 0
@@ -60,7 +58,4 @@ table_of_contents:
   label: 無音論篇
   type: section
   level: 1
-hash: sha256:64a966dbf1646c2c81e120483c56fcb5921cab8088a04da4fb886720e44589cf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b1a2b2b44a71553163fd126c01464dc5adc1215d79b430e8edae6f70b4577252
