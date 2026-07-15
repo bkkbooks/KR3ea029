@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ea029/v1
 canonical_location: https://kanripo.org/bkk/KR3ea029/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 黃帝内經靈樞略
   identifiers:
@@ -16,7 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea029_000.yaml, hash: 'sha256:cc450c571a6c92ba23478e4bafd62902cb1f3ddf2d886613e7a25e0adb556c13'}
+  - {seq: 0, filename: KR3ea029_000.yaml, hash: 'sha256:8296acd26a00672f4e86100e56e4989429ebeed0078a99762abaef7ce2d5603b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea029_000.markers.yaml, hash: 'sha256:d98437809a6f998dff400934b6a0d4bc6c86d848315d20495c7d3801b552ba9a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -58,4 +60,7 @@ table_of_contents:
   label: 無音論篇
   type: section
   level: 1
-hash: sha256:b1a2b2b44a71553163fd126c01464dc5adc1215d79b430e8edae6f70b4577252
+hash: sha256:ff7ebbdf74033abcaca5994df5d2b04ad78e958b996780df04925475035e018c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
